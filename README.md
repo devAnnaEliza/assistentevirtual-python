@@ -2,7 +2,7 @@
 
 Assistente virtual desenvolvido em Python com ativação por voz. Este projeto foi desenvolvido como prática de um curso da plataforma Jornada do Dev e tem como objetivo permitir ao usuário realizar tarefas no computador utilizando comandos de voz.
 
-## 📚 Tecnologias e bibliotecas utilizadas
+## 🛠️ Tecnologias e bibliotecas utilizadas
 
 - Python
 - Speech Recognition
@@ -39,9 +39,11 @@ python -m venv venv
 ### 4. Ativar o ambiente virtual
 
 **Windows**
+
 venv\Scripts\activate
 
 **Linux / Mac**
+
 source venv/bin/activate
 
 ### 4. Executar o projeto
@@ -49,4 +51,4 @@ source venv/bin/activate
 python src/app.py
 
 
-**ainda em desenvolvimento**
+**Projeto em andamento**
